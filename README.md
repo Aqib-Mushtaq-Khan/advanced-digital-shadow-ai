@@ -1,3 +1,4 @@
+<img width="1610" height="932" alt="image" src="https://github.com/user-attachments/assets/b0f18496-c392-4107-8125-b0643700dd14" />
 # Advanced Digital Shadow System
 
 A real-time interactive AI visual experiment using webcam-based face tracking, hand tracking, gesture control, holographic objects, and JARVIS-style visual annotations.
